@@ -1,7 +1,10 @@
 ## Hi there, I am Vishnu 👋
 
 :spider_web: Web Developer 
+<br/>
 🔭 Currently works with React, Vue and GraphQL. 
+<br/>
+:wrench:	Always happy to learn and build new things
 
 <!--
 **vishnup95/vishnup95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
