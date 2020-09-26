@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there, I am Vishnu 👋
+
+:spider_web: Web Developer 
+🔭 Currently works with React, Vue and GraphQL. 
 
 <!--
 **vishnup95/vishnup95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
