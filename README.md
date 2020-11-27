@@ -6,7 +6,7 @@
 <br/>
 :wrench:	Always happy to learn and build new things
 
-(https://komarev.com/ghpvc/?username=vishnup95&color=dc143c)
+<img src="https://komarev.com/ghpvc/?username=vishnup95&color=dc143c"/>
 
 
 <!--
