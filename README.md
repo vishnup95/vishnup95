@@ -6,6 +6,9 @@
 <br/>
 :wrench:	Always happy to learn and build new things
 
+(https://komarev.com/ghpvc/?username=vishnup95&color=dc143c)
+
+
 <!--
 **vishnup95/vishnup95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
