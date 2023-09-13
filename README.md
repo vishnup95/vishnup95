@@ -2,7 +2,7 @@
 
 :spider_web: Web Developer 
 <br/>
-🔭 Currently works with React, Vue and GraphQL. 
+🔭 Currently works with React, Astro, Next and Node. 
 <br/>
 :wrench:	Always happy to learn and build new things
 
